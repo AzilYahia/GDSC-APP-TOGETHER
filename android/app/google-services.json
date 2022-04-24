@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297675516106",
+    "project_id": "together-gdsc",
+    "storage_bucket": "together-gdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297675516106:android:7d2d26c50006a21c5cac33",
+        "android_client_info": {
+          "package_name": "com.gdsc.together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297675516106-49v457jvj161piqo3ph20rpqj013hdqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw5Lg8MqE6PB5wI2IwN_xf4sE2cuTtLyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297675516106-49v457jvj161piqo3ph20rpqj013hdqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
